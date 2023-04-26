@@ -19,7 +19,7 @@
 </p>
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=igorfoontes&show_icons=true&count_private=true&theme=dark)
+![card](https://github-readme-stats.vercel.app/api?username=igorfoontes&theme=default)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfoontes&hide=html&layout=compact&theme=default)
 
 
