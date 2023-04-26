@@ -25,14 +25,12 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
+  <img src="https://github.com/igorfoontes/igorfoontes/blob/master/img/quartobagunçadoo.png" width="100%" alt="quartobagunçado"><br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-intel iris%20xe grafichs-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
 </p>
-
-<img src="https://github.com/igorfoontes/igorfoontes/blob/master/img/quartobagunçadoo.png" width="100%" alt="quartobagunçado">
-
 
 ## Tech Stack 💻
 #### Languages
