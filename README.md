@@ -1,6 +1,10 @@
 ### 🥷 Hi!
 
+<<<<<<< HEAD
 <img src="https://github.com/igorfoontes/igorfoontes/blob/master/img/quartobagunçado.jpg" width="100%" alt="anime">
+=======
+<img src="https://github.com/igorfoontes/igorfoontes/blob/master/img/quarto.jpg" width="100%" alt="anime">
+>>>>>>> 8b1f87646a6d6d08de8f63a3bfb4cdb741a384c0
 
 ### 🥢 Skils
 
