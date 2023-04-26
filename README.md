@@ -18,10 +18,10 @@
   
 </p>
 
-
-![card](https://github-readme-stats.vercel.app/api?username=igorfoontes&theme=default)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfoontes&hide=html&layout=compact&theme=default)
-
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=igorfoontes&theme=default" ></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfoontes&hide=html&layout=compact&theme=default" ></a>
+</p>
 
 <p align='center'>
   💻 My workspace<br/><br/>
