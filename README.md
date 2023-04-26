@@ -1,6 +1,6 @@
 ### 🥷 Hi!
 
-<img src="[https://github.com/igorfoontes/igorfoontes/blob/master/img/quartobagunçado.jpg](https://github.com/igorfoontes/igorfoontes/blob/master/img/quartobagunçado.png)" width="100%" alt="quartobagunçado">
+<img src="https://github.com/igorfoontes/igorfoontes/blob/master/img/quartobagunçado.png" width="100%" alt="quartobagunçado">
 
 
 ### 🥢 Skils
